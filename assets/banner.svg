@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Gage Nichols — Cyber Security Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Gage Nichols — Cyber Security Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0c1430"/>
@@ -27,98 +27,71 @@
   </defs>
 
   <!-- panel -->
-  <rect x="0" y="0" width="1200" height="300" rx="20" fill="url(#bg)"/>
-  <rect x="6" y="6" width="1188" height="288" rx="16" fill="none" stroke="#22d3ee" stroke-opacity="0.28" stroke-width="1.5"/>
+  <rect x="0" y="0" width="1200" height="220" rx="20" fill="url(#bg)"/>
+  <rect x="6" y="6" width="1188" height="208" rx="16" fill="none" stroke="#22d3ee" stroke-opacity="0.28" stroke-width="1.5"/>
   <g fill="#22d3ee" fill-opacity="0.5">
     <circle cx="20" cy="20" r="2.5"/><circle cx="1180" cy="20" r="2.5"/>
-    <circle cx="20" cy="280" r="2.5"/><circle cx="1180" cy="280" r="2.5"/>
+    <circle cx="20" cy="200" r="2.5"/><circle cx="1180" cy="200" r="2.5"/>
   </g>
 
   <!-- perspective floor grid -->
   <g stroke="#22d3ee" stroke-opacity="0.10" stroke-width="1">
-    <line x1="600" y1="150" x2="40" y2="294"/>
-    <line x1="600" y1="150" x2="220" y2="294"/>
-    <line x1="600" y1="150" x2="400" y2="294"/>
-    <line x1="600" y1="150" x2="600" y2="294"/>
-    <line x1="600" y1="150" x2="800" y2="294"/>
-    <line x1="600" y1="150" x2="980" y2="294"/>
-    <line x1="600" y1="150" x2="1160" y2="294"/>
-    <line x1="40" y1="262" x2="1160" y2="262"/>
-    <line x1="40" y1="276" x2="1160" y2="276"/>
-    <line x1="40" y1="290" x2="1160" y2="290"/>
+    <line x1="600" y1="110" x2="40" y2="214"/>
+    <line x1="600" y1="110" x2="220" y2="214"/>
+    <line x1="600" y1="110" x2="400" y2="214"/>
+    <line x1="600" y1="110" x2="600" y2="214"/>
+    <line x1="600" y1="110" x2="800" y2="214"/>
+    <line x1="600" y1="110" x2="980" y2="214"/>
+    <line x1="600" y1="110" x2="1160" y2="214"/>
+    <line x1="40" y1="188" x2="1160" y2="188"/>
+    <line x1="40" y1="200" x2="1160" y2="200"/>
+    <line x1="40" y1="210" x2="1160" y2="210"/>
   </g>
 
   <!-- halo behind atom -->
-  <circle cx="985" cy="150" r="150" fill="url(#halo)"/>
+  <circle cx="985" cy="108" r="140" fill="url(#halo)"/>
 
   <!-- atom -->
   <g>
-    <g transform="rotate(0 985 150)"><ellipse cx="985" cy="150" rx="120" ry="40" fill="none" stroke="#22d3ee" stroke-opacity="0.75" stroke-width="2"/></g>
-    <g transform="rotate(60 985 150)"><ellipse cx="985" cy="150" rx="120" ry="40" fill="none" stroke="#67e8f9" stroke-opacity="0.6" stroke-width="2"/></g>
-    <g transform="rotate(120 985 150)"><ellipse cx="985" cy="150" rx="120" ry="40" fill="none" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="2"/></g>
+    <g transform="rotate(0 985 108)"><ellipse cx="985" cy="108" rx="120" ry="40" fill="none" stroke="#22d3ee" stroke-opacity="0.75" stroke-width="2"/></g>
+    <g transform="rotate(60 985 108)"><ellipse cx="985" cy="108" rx="120" ry="40" fill="none" stroke="#67e8f9" stroke-opacity="0.6" stroke-width="2"/></g>
+    <g transform="rotate(120 985 108)"><ellipse cx="985" cy="108" rx="120" ry="40" fill="none" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="2"/></g>
 
     <!-- electrons -->
-    <g transform="rotate(0 985 150)">
+    <g transform="rotate(0 985 108)">
       <circle r="6" fill="#f472b6">
-        <animateMotion dur="7s" repeatCount="indefinite" path="M 1105,150 A 120,40 0 1 1 865,150 A 120,40 0 1 1 1105,150"/>
+        <animateMotion dur="7s" repeatCount="indefinite" path="M 1105,108 A 120,40 0 1 1 865,108 A 120,40 0 1 1 1105,108"/>
       </circle>
     </g>
-    <g transform="rotate(60 985 150)">
+    <g transform="rotate(60 985 108)">
       <circle r="6" fill="#ff6b6b">
-        <animateMotion dur="9s" repeatCount="indefinite" path="M 1105,150 A 120,40 0 1 1 865,150 A 120,40 0 1 1 1105,150"/>
+        <animateMotion dur="9s" repeatCount="indefinite" path="M 1105,108 A 120,40 0 1 1 865,108 A 120,40 0 1 1 1105,108"/>
       </circle>
     </g>
-    <g transform="rotate(120 985 150)">
+    <g transform="rotate(120 985 108)">
       <circle r="6" fill="#22d3ee">
-        <animateMotion dur="11s" repeatCount="indefinite" path="M 1105,150 A 120,40 0 1 1 865,150 A 120,40 0 1 1 1105,150"/>
+        <animateMotion dur="11s" repeatCount="indefinite" path="M 1105,108 A 120,40 0 1 1 865,108 A 120,40 0 1 1 1105,108"/>
       </circle>
     </g>
 
     <!-- nucleus -->
-    <circle cx="985" cy="150" r="18" fill="url(#nuc)"/>
-    <circle cx="985" cy="150" r="18" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
-    <circle cx="985" cy="150" r="26" fill="none" stroke="#fbbf24" stroke-opacity="0.35" stroke-width="1"/>
+    <circle cx="985" cy="108" r="18" fill="url(#nuc)"/>
+    <circle cx="985" cy="108" r="18" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+    <circle cx="985" cy="108" r="26" fill="none" stroke="#fbbf24" stroke-opacity="0.35" stroke-width="1"/>
   </g>
 
   <!-- sparkles -->
-  <use href="#spark" transform="translate(820,60) scale(0.7)" opacity="0.85"/>
-  <use href="#spark" transform="translate(1140,210) scale(0.5)" opacity="0.7"/>
-  <use href="#spark" transform="translate(700,95) scale(0.45)" opacity="0.6" fill="#f472b6"/>
+  <use href="#spark" transform="translate(815,42) scale(0.7)" opacity="0.85"/>
+  <use href="#spark" transform="translate(1140,170) scale(0.5)" opacity="0.7"/>
+  <use href="#spark" transform="translate(700,58) scale(0.45)" opacity="0.6" fill="#f472b6"/>
 
   <!-- title -->
-  <text x="60" y="118" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="68" font-weight="900" letter-spacing="6" fill="#22d3ee" opacity="0.5" filter="url(#soft)">GAGE NICHOLS</text>
-  <text x="60" y="118" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="68" font-weight="900" letter-spacing="6" fill="url(#title)">GAGE NICHOLS</text>
+  <text x="60" y="112" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="68" font-weight="900" letter-spacing="6" fill="#22d3ee" opacity="0.5" filter="url(#soft)">GAGE NICHOLS</text>
+  <text x="60" y="112" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="68" font-weight="900" letter-spacing="6" fill="url(#title)">GAGE NICHOLS</text>
 
   <!-- rule -->
-  <rect x="62" y="135" width="560" height="2" fill="#ff6b6b" opacity="0.8"/>
+  <rect x="62" y="130" width="560" height="2" fill="#ff6b6b" opacity="0.8"/>
 
   <!-- subtitle -->
-  <text x="62" y="172" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="23" font-weight="700" letter-spacing="9" fill="#fef8e7">CYBER SECURITY ENGINEER</text>
-
-  <!-- mono tagline -->
-  <text x="62" y="200" font-family="'Share Tech Mono','Courier New',monospace" font-size="16" letter-spacing="1" fill="#67e8f9">// blue team &#183; cloud security &#183; agentic AI</text>
-
-  <!-- focus-area chips -->
-  <g font-family="'Share Tech Mono','Courier New',monospace" font-size="12.5" font-weight="700" letter-spacing="1">
-    <g>
-      <rect x="60" y="224" width="156" height="30" rx="15" fill="#1a2348" stroke="#22d3ee" stroke-opacity="0.5"/>
-      <circle cx="78" cy="239" r="4" fill="#22d3ee"/>
-      <text x="92" y="243" fill="#fef8e7">CLOUD SECURITY</text>
-    </g>
-    <g>
-      <rect x="226" y="224" width="168" height="30" rx="15" fill="#1a2348" stroke="#ff6b6b" stroke-opacity="0.5"/>
-      <circle cx="244" cy="239" r="4" fill="#ff6b6b"/>
-      <text x="258" y="243" fill="#fef8e7">DFIR &#183; FORENSICS</text>
-    </g>
-    <g>
-      <rect x="404" y="224" width="132" height="30" rx="15" fill="#1a2348" stroke="#fbbf24" stroke-opacity="0.5"/>
-      <circle cx="422" cy="239" r="4" fill="#fbbf24"/>
-      <text x="436" y="243" fill="#fef8e7">AI &#183; AGENTIC</text>
-    </g>
-    <g>
-      <rect x="546" y="224" width="160" height="30" rx="15" fill="#1a2348" stroke="#f472b6" stroke-opacity="0.5"/>
-      <circle cx="564" cy="239" r="4" fill="#f472b6"/>
-      <text x="578" y="243" fill="#fef8e7">CTF &#183; HARDWARE</text>
-    </g>
-  </g>
+  <text x="62" y="167" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="23" font-weight="700" letter-spacing="9" fill="#fef8e7">CYBER SECURITY ENGINEER</text>
 </svg>

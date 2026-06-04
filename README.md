@@ -12,56 +12,6 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## ▸ Mission Briefing
-
-Security engineer with a **blue-team core** — incident response, digital forensics, and
-vulnerability management — who now builds at the seam between **cloud security** and
-**agentic AI**. I like turning messy security problems into durable tooling: deterministic
-guardrails, DFIR collectors, and spec-driven automation that other engineers can actually use.
-
-Off the clock I'm breaking XOR ciphers, hiding payloads in pixels, and teaching a Flipper Zero
-new tricks. CS degree from **UTSA** (Information Security concentration); based in San Antonio, TX.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## ◆ Systems Online — Capabilities
-
-**☁️ Cloud &amp; Infrastructure**
-<p>
-<img src="https://img.shields.io/badge/AWS-22d3ee?style=for-the-badge&labelColor=0c1430&logo=amazonwebservices&logoColor=0c1430" alt="AWS" />
-<img src="https://img.shields.io/badge/IAM-22d3ee?style=for-the-badge&labelColor=0c1430" alt="IAM" />
-<img src="https://img.shields.io/badge/CSPM-22d3ee?style=for-the-badge&labelColor=0c1430" alt="CSPM" />
-<img src="https://img.shields.io/badge/Infrastructure_as_Code-22d3ee?style=for-the-badge&labelColor=0c1430&logo=terraform&logoColor=0c1430" alt="Infrastructure as Code" />
-<img src="https://img.shields.io/badge/Security_Automation-22d3ee?style=for-the-badge&labelColor=0c1430" alt="Security Automation" />
-</p>
-
-**🛡️ Security Operations**
-<p>
-<img src="https://img.shields.io/badge/Incident_Response-ff6b6b?style=for-the-badge&labelColor=0c1430" alt="Incident Response" />
-<img src="https://img.shields.io/badge/Digital_Forensics-ff6b6b?style=for-the-badge&labelColor=0c1430" alt="Digital Forensics" />
-<img src="https://img.shields.io/badge/Vulnerability_Management-ff6b6b?style=for-the-badge&labelColor=0c1430" alt="Vulnerability Management" />
-<img src="https://img.shields.io/badge/Threat_Detection-ff6b6b?style=for-the-badge&labelColor=0c1430" alt="Threat Detection" />
-<img src="https://img.shields.io/badge/DLP-ff6b6b?style=for-the-badge&labelColor=0c1430" alt="DLP" />
-</p>
-
-**📋 Compliance &amp; GRC**
-<p>
-<img src="https://img.shields.io/badge/SOC_2-fbbf24?style=for-the-badge&labelColor=0c1430" alt="SOC 2" />
-<img src="https://img.shields.io/badge/PCI_DSS-fbbf24?style=for-the-badge&labelColor=0c1430" alt="PCI DSS" />
-<img src="https://img.shields.io/badge/ISO_27001-fbbf24?style=for-the-badge&labelColor=0c1430" alt="ISO 27001" />
-<img src="https://img.shields.io/badge/GRC-fbbf24?style=for-the-badge&labelColor=0c1430" alt="GRC" />
-</p>
-
-**🤖 AI &amp; Agentic Engineering**
-<p>
-<img src="https://img.shields.io/badge/Claude_Code-a78bfa?style=for-the-badge&labelColor=0c1430&logo=anthropic&logoColor=0c1430" alt="Claude Code" />
-<img src="https://img.shields.io/badge/MCP-a78bfa?style=for-the-badge&labelColor=0c1430" alt="MCP" />
-<img src="https://img.shields.io/badge/Agentic_Workflows-a78bfa?style=for-the-badge&labelColor=0c1430" alt="Agentic Workflows" />
-<img src="https://img.shields.io/badge/Spec--Driven_Dev-a78bfa?style=for-the-badge&labelColor=0c1430" alt="Spec-Driven Development" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 ## ⬢ Active Missions — Featured Work
 
 | Project | What it is | Stack |
