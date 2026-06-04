@@ -4,10 +4,6 @@
 
 <img src="./assets/banner.svg" alt="Gage Nichols — Cyber Security Engineer" width="100%" />
 
-<a href="https://realgagenichols.github.io/GageNichols/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=45&background=00000000&lines=Cloud+Security+Engineer;Blue+Team+%C2%B7+DFIR+%C2%B7+Forensics;I+build+security+tooling;Agentic+AI+for+Security" alt="Cloud Security Engineer · Blue Team · DFIR · Agentic AI" />
-</a>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
