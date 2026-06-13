@@ -13,6 +13,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | 🚀 **[GageNichols](https://github.com/Realgagenichols/GageNichols)** | My atomic-age portfolio site, with a **CI-gated PII scanner** guarding every build. | `React` · `Vite` |
+| 🚦 **[tollbooth](https://github.com/Realgagenichols/tollbooth)** | A **security gateway for AI agents** — a transparent MCP proxy that enforces policy, DLP, and a tamper-evident audit trail on *every* tool call and result. Fail-closed by default. | `Python` · `MCP` |
 | 🛰️ **[mission-control](https://github.com/Realgagenichols/mission-control)** | A browser-based command center for launching, watching, and steering many Claude Code sessions at once. Loopback-only by design. | `Python` · `FastAPI` · `WebSockets` |
 | 🛡️ **[claude-dlp-guard](https://github.com/Realgagenichols/claude-dlp-guard)** | Deterministic **DLP guardrail** that classifies files *before* Claude Code reads them — blocks PII, secrets, and payment cards. No LLM, all rules. | `Python` · `Claude plugin` |
 | 🐬 **[clipper](https://github.com/Realgagenichols/clipper)** | An **MCP server** that lets an AI agent drive a **Flipper Zero** running Momentum firmware. | `Python` · `MCP` |
