@@ -18,9 +18,6 @@
 | 🛰️ **[mission-control](https://github.com/Realgagenichols/mission-control)** | A browser-based command center for launching, watching, and steering many Claude Code sessions at once. Loopback-only by design. | `Python` · `FastAPI` · `WebSockets` |
 | 📶 **[splashpass](https://github.com/Realgagenichols/splashpass)** | A privacy-first CLI that fills **captive-portal Wi-Fi** forms with throwaway identities — your real data never touches the form, and **no submitted value is ever logged**. | `Python` · `Playwright` · `CLI` |
 | 🐬 **[clipper](https://github.com/Realgagenichols/clipper)** | An **MCP server** that lets an AI agent drive a **Flipper Zero** running Momentum firmware. | `Python` · `MCP` |
-| 🔬 **[windows_forensics](https://github.com/Realgagenichols/windows_forensics)** | Endpoint collector that pulls artifacts off a Windows host to kick off a **DFIR** investigation. | `Python` · `DFIR` |
-| 🖼️ **[Steganography](https://github.com/Realgagenichols/Steganography)** | A study kit for hiding and extracting data inside media files. | `Python` · `Stego` |
-| 🔓 **[XOR-Encryption-Breaker](https://github.com/Realgagenichols/XOR-Encryption-Breaker)** | Encrypts with XOR — and **breaks** XOR ciphertext *without* the key. | `Python` · `Cryptanalysis` |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
