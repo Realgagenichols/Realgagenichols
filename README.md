@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Gage Nichols — Cyber Security Engineer" width="100%" />
+<img src="./assets/banner.svg" alt="Gage Nichols — Senior Cloud Security Engineer" width="100%" />
 
 </div>
 
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0c1430?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://realgagenichols.github.io/GageNichols/">
+<a href="https://hiregage.com">
   <img src="https://img.shields.io/badge/Portfolio-0c1430?style=for-the-badge&logo=githubpages&logoColor=fbbf24" alt="Portfolio" />
 </a>
 &nbsp;

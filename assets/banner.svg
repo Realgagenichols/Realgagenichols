@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Gage Nichols — Cyber Security Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Gage Nichols — Senior Cloud Security Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0c1430"/>
@@ -93,5 +93,5 @@
   <rect x="62" y="130" width="560" height="2" fill="#ff6b6b" opacity="0.8"/>
 
   <!-- subtitle -->
-  <text x="62" y="167" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="23" font-weight="700" letter-spacing="9" fill="#fef8e7">CYBER SECURITY ENGINEER</text>
+  <text x="62" y="167" font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="21" font-weight="700" letter-spacing="7" fill="#fef8e7">SENIOR CLOUD SECURITY ENGINEER</text>
 </svg>
