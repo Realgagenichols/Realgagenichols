@@ -18,7 +18,6 @@
 | ☠️ **[poison-garden](https://github.com/Realgagenichols/poison-garden)** | A **benchmark corpus of deliberately malicious MCP servers**. Every specimen is a *running program*, so its declaration and its behavior can disagree — the gap static scanners cannot see. Run your own scanner, find out what it misses. | `Python` · `MCP` |
 | 🛡️ **[claude-dlp-guard](https://github.com/Realgagenichols/claude-dlp-guard)** | Deterministic **DLP guardrail** that classifies files *before* Claude Code reads them — blocks PII, secrets, and payment cards. No LLM, all rules. | `Python` · `Claude plugin` |
 | 🛰️ **[mission-control](https://github.com/Realgagenichols/mission-control)** | A browser-based command center for launching, watching, and steering many Claude Code sessions at once. Loopback-only by design. | `Python` · `FastAPI` · `WebSockets` |
-| 📶 **[splashpass](https://github.com/Realgagenichols/splashpass)** | A privacy-first CLI that fills **captive-portal Wi-Fi** forms with throwaway identities — your real data never touches the form, and **no submitted value is ever logged**. | `Python` · `Playwright` · `CLI` |
 | 🐬 **[clipper](https://github.com/Realgagenichols/clipper)** | An **MCP server** that lets an AI agent drive a **Flipper Zero** running Momentum firmware. | `Python` · `MCP` |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
